@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-### This is a high school student in Taiwan
-
-### I want to get better by writing more and more programs.
-
 <!--
 ### Hei! I also like to play guitar🎸. Music🎵 sets me free! HAHA
 -->
