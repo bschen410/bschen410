@@ -4,13 +4,11 @@
 ### Hei! I also like to play guitar🎸. Music🎵 sets me free! HAHA
 -->
 
-### If you want to contact me. The list below can help you.
-
 | Social Media | URL                                      |
 |:------------ |:---------------------------------------- |
 | Facebook     | https://www.facebook.com/bschen410/ |
 | Instagram    | https://www.instagram.com/bschen410/       |
-| Github Blog  | https://blog.bschen.me/        |
+| GitHub Blog  | https://blog.bschen.me/   (maintaining)     |
 
 <h1 align="center">bschen410's Github Data Visualization</h1>
 <p align="center">
